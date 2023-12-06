@@ -1,0 +1,3 @@
+standard_e2s_v3 australiacentral
+standard_ds2 canadacentral
+standard_d2as_v4 eastasia
